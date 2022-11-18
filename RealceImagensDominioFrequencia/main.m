@@ -1,8 +1,6 @@
 %=========================================================================%
-% TRABALHO FINAL DA DISCIPLINA DE PROCESSAMENTO DIGITAL DE SINAIS
 % TEMA: AGUÇAMENTO DE IMAGENS APLICANDO FILTROS NO DOMINIO DA FREQUENCIA
 % NOME : Emanuel Valerio Pereira
-% MATRICULA : 471055
 %=========================================================================%
 % Orientacoes : Caso deseje visualizar o resultado da filtragem em uma
 % imgem que nao esta na pasta, basta copiar a imagem para a pasta e colocar
